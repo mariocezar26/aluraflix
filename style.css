@@ -1,0 +1,36 @@
+body {
+    background: white;
+    color: black;
+    margin: 0px;
+    font-family:"Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap",sans-serif
+    }
+    
+    header {
+    border-bottom: solid 2px rgb(255, 251, 251);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+    }
+    
+    section {
+    background-color: rgb(26, 104, 97);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    }
+    
+    
+    }
+    
+    .chamada-texto {
+    margin-right: 20px;
+    }
+    
+    h1{
+    font-size: 40px;
+    }
+    
+    p {
+    font-size: 20px;
+    }
